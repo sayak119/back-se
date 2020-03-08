@@ -1,0 +1,9 @@
+name: 'BackSE'
+author: 'sayak119'
+description: 'This GitHub action can mirror a GitHub repository to S3 compatible storage.'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+branding:
+  icon: 'upload-cloud'
+  color: 'blue'
