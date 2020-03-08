@@ -1,4 +1,4 @@
-name: 'BackSE'
+name: 'BackSE-AWS'
 author: 'sayak119'
 description: 'This GitHub action can mirror a GitHub repository to S3 compatible storage.'
 runs:
